@@ -1,0 +1,118 @@
+
+
+#review{
+    color: rgba(181, 16, 16, 0.851);
+    font-size: 50px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    margin-bottom: 30px;
+}
+.review1{
+    color: rgba(181, 16, 16, 0.851);
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    
+  
+
+}
+#user1{
+background-color:rgba(96, 92, 92, 0.575);
+height: 400px;
+width: 350px;
+
+box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+margin-left: 60px;
+border-radius: 10px;
+}
+#user2{
+    background-color:rgba(96, 92, 92, 0.575);
+    height: 400px;
+    width: 350px;
+   margin-left: 60px;
+    
+    border-radius: 10px;
+    box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+    }
+
+    #user3{
+        background-color:rgba(96, 92, 92, 0.575);
+        height: 400px;
+        width: 350px;
+        
+        border-radius: 10px;
+        margin-left: 60px;
+        box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+    }
+   #user1 .reting i{
+    color: black;
+ margin: 0px;
+ padding: 0px;
+
+
+ }
+#commet{
+    font-size: 20px;
+    line-height: -8px;
+    display: inline-block;
+    color: black;
+    padding: 20px;
+}
+#user1 .reting span{
+    color: black;
+    font-size: 25px;
+    margin-left: 20px;
+}
+#user2 .reting i{
+    color: black;
+ margin: 0px;
+ padding: 0px;
+
+
+ }
+ #user2 .reting span{
+    color: black;
+    font-size: 25px;
+    margin-left: 20px;
+}
+#user3 .reting i{
+    color: black;
+ margin: 0px;
+ padding: 0px;
+
+
+ }
+ #user3 .reting span{
+    color: black;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+#prof1{
+    background-color: black;
+    margin-left: 40px;
+    margin-right: 10px;
+    font-size: 20px;
+    color: white;
+    border-radius: 40px;
+   
+    
+}
+#prof2{
+    background-color: black;
+    margin-left: 50px;
+    font-size: 20px;
+    color: white;
+    border-radius: 40px;
+}
+#prof3{
+    background-color: black;
+    margin-left: 50px;
+    font-size: 20px;
+    color: white;
+    border-radius: 40px;
+}
+span{
+    font-size: 35px;
+}

@@ -1,0 +1,178 @@
+
+.main-menu{
+   
+     height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.818);
+    color: white;
+    border: 1px black;
+    
+}
+#main-menu{
+    color: white;
+    font-size: 55px;
+    
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+#images {
+    height: 35%;
+    width:90%;
+   
+    margin-left: 90px;
+    text-align: center;
+    color: black;
+    margin-bottom: 30px;
+    
+   
+    display: flex;
+    
+    flex-wrap: wrap;
+    
+}
+#images img{
+    height: 60%;
+    width: 99%;
+    border: 0.1px solid white;
+    border-top-right-radius:30px;
+    border-top-left-radius: 35px;
+   
+}
+ #imgh2{
+    font-weight: bolder;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    margin-top: -10px;
+    
+}
+#images p{
+    font-size: 16px;
+    font-weight: bold;
+}
+#images button{
+    width: 120px;
+    height: 25px;
+    font-weight: bold;
+    font-size: 15px;
+    
+    background-color: black;
+    color: white;
+    
+    border-radius: 10px
+}
+
+.card{
+   
+    width: 400px;
+    border: 1px solid white;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+#card1{
+    background-color: rgba(128, 229, 195, 0.68);
+    border: 0.1px solid white;
+    border-radius: 35px;
+}
+/* #card2{
+    background-color: rgb(140, 164, 144);
+    border: 0.1px solid white;
+    border-radius: 35px;
+}
+
+#card3{
+    background-color: rgb(159, 122, 131);
+    border: 0.1px solid white;
+    border-radius: 35px;
+}
+
+#card4{
+    background-color: rgb(144, 147, 117);
+    border: 0.1px solid white;
+    border-radius: 35px;
+} */
+
+
+
+.image2{
+    
+    margin-top: 60px;
+    width: 400px;
+    height: 35%;
+    width:90%;
+   
+   
+    margin-left: 90px;
+    text-align: center;
+    color: black;
+    
+   
+    display: flex;
+    
+}
+/* .image2 img{
+    height: 60%;
+    width: 99%;
+    border: 0.1px solid white;
+    border-top-right-radius:30px;
+    border-top-left-radius: 35px;
+}
+.image2 p{
+    font-size: 16px;
+    font-weight: bold;
+}
+.image2 button{
+    width: 120px;
+    height: 25px;
+    font-weight: bold;
+    font-size: 15px;
+    
+    background-color: black;
+    color: white;
+    
+    border-radius: 10px
+}
+
+#card5{
+    background-color: rgb(153, 139, 121);
+    border: 0.1px solid white;
+    border-radius: 35px;
+    font-size: 20px;
+
+
+}
+#card6{
+    background-color: rgb(158, 165, 173);
+    border: 0.1px solid white;
+    border-radius: 35px;
+
+    
+}
+#card7{
+    background-color: rgb(145, 188, 150);
+    border: 0.1px solid white;
+    border-radius: 35px;
+
+    
+}
+#card8{
+    background-color: rgb(187, 147, 181);
+    border: 0.1px solid white;
+    border-radius: 35px;
+
+    
+} */
+#price{
+    font-size: 20px;
+    height: 20px;
+    width: 70px;
+    background-color: rgb(175, 226, 71);
+    text-align: center;
+    margin-left: 170px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+
+}
